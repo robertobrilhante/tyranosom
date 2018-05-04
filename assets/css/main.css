@@ -2094,7 +2094,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url(https://s23.postimg.cc/c375nnsjf/hands_music_musician_piano.jpg);
+		background: url("https://vignette.wikia.nocookie.net/epicrapbattlesofhistory/images/6/66/Tiger_Black_Background.png/revision/latest?cb=20141221230407"), url(https://s23.postimg.cc/c375nnsjf/hands_music_musician_piano.jpg);
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
